@@ -10,7 +10,7 @@ Homepage is a sleek, modern dashboard that displays all your services in one pla
 - **Expose the UI on port 3000.**
 
 ### 📝 Challenge:
-Customizing a dashboard requires editing YAML configuration files. You will need to link your filebrowser, it-tools, and stirling-pdf into the dashboard.
+Customizing a dashboard requires editing YAML configuration files. You will need to link your filebrowser, it-tools, and stirling-pdf into the dashboard(Optional, if you do it, extra points).
 
 Check the [Homepage Documentation](https://gethomepage.dev/configs/) for how to add services.
 
